@@ -1,0 +1,49 @@
+{
+  "players": [
+    {
+      "id": "08c4e261-8566-4529-ad0e-63907282ad56",
+      "name": "Ronaldo",
+      "country": "Portu",
+      "continent": "Europa"
+    },
+    {
+      "id": "4ed81e51-88ac-4c85-b29e-2ccc0632cf63",
+      "name": "Neymar",
+      "country": "Brasil",
+      "continent": "Africa"
+    },
+    {
+      "id": "47f607a9-19fb-4b14-aabf-868dbc0cbdc7",
+      "name": "Benzema",
+      "country": "France",
+      "continent": "Europa"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "label": "All",
+      "classNames": "px-5 py-2 bg-gradient-to-r from-black to-slate-600 mr-2 rounded-md text-white hover:opacity-90 transition-all"
+    },
+    {
+      "id": "europa",
+      "label": "Europa",
+      "classNames": "px-5 py-2 bg-gradient-to-l from-orange-400 to-orange-700 mr-2 rounded-md text-white hover:opacity-90 transition-all"
+    },
+    {
+      "id": "asia",
+      "label": "Asia",
+      "classNames": "px-5 py-2 mr-2 bg-gradient-to-r from-blue-400 to-blue-700 rounded-md text-white hover:opacity-90 transition-all"
+    },
+    {
+      "id": "africe",
+      "label": "Africa",
+      "classNames": "px-5 py-2 bg-gradient-to-r from-red-400 to-red-600 mr-2 rounded-md text-white hover:opacity-90 transition-all"
+    },
+    {
+      "id": "america",
+      "label": "America",
+      "classNames": "px-5 py-2 mr-2 bg-gradient-to-r from-green-500 to-green-700 rounded-md text-white hover:opacity-90 transition-all"
+    }
+  ]
+}
